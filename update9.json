@@ -1,7 +1,8 @@
 {
-  "Enable": false,
+  "Enable": true,
   "Title": "NEW UPDATE!",
-  "Massage": "Exciting new features and bug fixes have been released. Please update your app.",
+  "Massage": "A new version of the app is available with bug fixes and cool features.",
   "Version": "v2.0",
+  "ImageUrl": "https://raw.githubusercontent.com/kingboy70512-commits/PUBG-LITE/refs/heads/main/Xrw.png",
   "Url": "https://t.me/SEXTYMODS"
 }
