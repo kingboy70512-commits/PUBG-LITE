@@ -1,7 +1,7 @@
 {
-  "Enable": true,
-  "Title": "NEW UPDATE!",
-  "Massage": "A new version of the app is available with bug fixes and cool features.",
+  "Enable": false,
+  "Title": "App Update Required!",
+  "Massage": "We have added new features and fix some bugs to make your experience seamless.",
   "Version": "v2.0",
   "Url": "https://t.me/SEXTYMODS"
 }
