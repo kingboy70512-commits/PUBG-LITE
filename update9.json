@@ -1,5 +1,5 @@
 {
-  "Enable": false,
+  "Enable": true,
   "Title": "App Update Required!",
   "Massage": "We have added new features and fix some bugs to make your experience seamless.",
   "Version": "v2.0",
